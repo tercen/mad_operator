@@ -1,6 +1,6 @@
 {
-  "name": "MAD (Mean Absolute Deviation)",
-  "description": "Compute the Mean Absolute Deviation of a set of data points, a robust measure of the variability.",
+  "name": "Mean Absolute Deviation",
+  "description": "Computes the Mean Absolute Deviation (MAD) of a set of data points, a robust measure of the variability.",
   "tags": [
     "descriptive statistics"
   ],
