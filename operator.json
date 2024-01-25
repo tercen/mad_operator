@@ -1,10 +1,14 @@
 {
   "name": "MAD (Mean Absolute Deviation)",
   "description": "Compute the Mean Absolute Deviation of a set of data points, a robust measure of the variability.",
-  "tags": ["basic statistics"],
-  "authors": ["tercen"],
-  "urls": ["https://github.com/tercen/mad_operator"],
+  "tags": [
+    "descriptive statistics"
+  ],
+  "authors": [
+    "tercen"
+  ],
+  "urls": [
+    "https://github.com/tercen/mad_operator"
+  ],
   "properties": []
 }
-
-
